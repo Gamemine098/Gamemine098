@@ -3,6 +3,4 @@
 
 - 👋 Hi, I’m @Gamemine098
 - 🌱 I’m currently learning PHP , Laravel
-- 📫 How to reach me
-  - Discord : gamemine098
 - 😄 Pronouns: He / Him
