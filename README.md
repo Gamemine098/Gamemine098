@@ -16,6 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,mysql)](https://skillicons.dev)
 
 ### 🧭 Currently learning 🧭
-[![My Skills](https://skillicons.dev/icons?i=js,php,laravel,py,pr,ps,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,laravel,lua,py,pr,ps,ae)](https://skillicons.dev)
 
 </div>
