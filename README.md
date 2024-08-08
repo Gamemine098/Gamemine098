@@ -6,11 +6,12 @@
 ### About me
 👋 Hi, I’m @Gamemine098
 <br/>
-🌱 I’m currently learning PHP , Laravel
-<br/>
 😄 Pronouns: He / Him
 
 ### Languages-Frameworks-Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev)
+
+### Currently learning
+[![My Skills](https://skillicons.dev/icons?i=js,php,laravel)](https://skillicons.dev)
 
 </div>
