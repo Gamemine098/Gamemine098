@@ -18,4 +18,7 @@
 ### 🧭 Currently learning 🧭
 [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,lua,py,pr,ps,ae)](https://skillicons.dev)
 
+### 🤯 Try to learning 🤯
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+
 </div>
