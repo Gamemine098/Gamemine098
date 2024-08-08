@@ -6,6 +6,8 @@
 😄 Pronouns: He / Him
 <br/>
 🌏 I'm from Thailand (GMT +7)
+<br/>
+🧑‍🎓 I am a third-year vocational student majoring in Information Technology
 
 ### Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/594483633662984192?bg=1a1b26&borderRadius=10px&hideDiscrim=true&showDisplayName=true&hideActivity=whenNotUsed)](https://discord.com/users/594483633662984192)
