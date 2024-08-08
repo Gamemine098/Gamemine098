@@ -5,7 +5,9 @@
 
 ### About me
 👋 Hi, I’m @Gamemine098
+<br/>
 🌱 I’m currently learning PHP , Laravel
+<br/>
 😄 Pronouns: He / Him
 
 ### Languages-Frameworks-Tools
