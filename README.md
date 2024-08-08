@@ -9,7 +9,7 @@
 😄 Pronouns: He / Him
 
 ### Languages-Frameworks-Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap)](https://skillicons.dev)
 
 ### Currently learning
 [![My Skills](https://skillicons.dev/icons?i=js,php,laravel)](https://skillicons.dev)
