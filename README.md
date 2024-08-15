@@ -1,5 +1,7 @@
 <div align="center">
 
+### Busy 08/15 - 08/24
+
 ## About me
 👋 Hi, I’m @Gamemine098
 <br/>
