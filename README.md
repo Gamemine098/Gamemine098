@@ -1,6 +1,7 @@
 <div align="center">
 
-### About me
+<h1>About me</h1>
+
 👋 Hi, I’m @Gamemine098
 <br/>
 😄 Pronouns: He / Him
