@@ -10,7 +10,7 @@
 <br/>
 🧑‍🎓 I am a third-year vocational student majoring in Information Technology
 <br/>
-⚒️ I am currently working on a school project (yes again) call: Good Food and Next.js website project (for about me)
+⚒️ I am currently working on a school project (yes again) call: Good Food and Vite website project (for about me)
 
 ### 🌐 Discord Profile 🌐
 [![Discord Presence](https://lanyard.cnrad.dev/api/594483633662984192?bg=1a1b26&borderRadius=10px&hideDiscrim=true&showDisplayName=true&hideActivity=whenNotUsed)](https://discord.com/users/594483633662984192)
