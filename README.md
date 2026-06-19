@@ -8,7 +8,7 @@
 <br/>
 🌏 I'm from Thailand (GMT +7)
 <br/>
-🧑‍🎓 I am a first year of High Vocational Certificate in Information Technology
+🧑‍🎓 I am a second year of High Vocational Certificate in Information Technology
 <br/>
 ⚒️ I am currently working on a FakDuay Delivery
 
